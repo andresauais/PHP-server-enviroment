@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+}
+
+form{
+  max-width: 500px;
+  margin: auto;
+}
+
+input[type=submit]{
+  margin-top: 30px;
+  width: 100%;
+}
